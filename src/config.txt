@@ -1,0 +1,17 @@
+Indent code in PHP tags = false
+Use tab character = true
+Tab size = 2
+Indent = 4
+Continuation indent = 1
+Keep indents on empty lines = false
+Spaces before parentheses = true
+Spaces around operators = true
+Spaces around concatenation operator = false
+Spaces around object access operator = true
+Spaces around null coalescing operator = true
+Spaces around assignment in declare statement = true
+Spaces before class left brace = true
+Spaces within brackets = true
+Spaces within brackets around variables/expressions = true
+Spaces in ternary operator = true
+Spaces after type cast = true
